@@ -1,0 +1,69 @@
+
+> frontend@0.1.0 dev
+> next dev
+
+▲ Next.js 16.1.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.241:3000
+- Environments: .env.local
+
+✓ Starting...
+✓ Ready in 729ms
+ GET /dashboard 200 in 525ms (compile: 287ms, render: 238ms)
+ GET /dashboard 200 in 83ms (compile: 10ms, render: 72ms)
+ GET /dashboard 200 in 84ms (compile: 6ms, render: 78ms)
+✓ Compiled in 313ms
+✓ Compiled in 44ms
+✓ Compiled in 54ms
+✓ Compiled in 31ms
+✓ Compiled in 38ms
+ GET /dashboard 200 in 268ms (compile: 48ms, render: 221ms)
+✓ Compiled in 67ms
+✓ Compiled in 42ms
+✓ Compiled in 33ms
+✓ Compiled in 43ms
+✓ Compiled in 37ms
+✓ Compiled in 46ms
+✓ Compiled in 34ms
+✓ Compiled in 88ms
+✓ Compiled in 33ms
+✓ Compiled in 39ms
+✓ Compiled in 34ms
+✓ Compiled in 44ms
+✓ Compiled in 31ms
+✓ Compiled in 52ms
+✓ Compiled in 32ms
+✓ Compiled in 41ms
+✓ Compiled in 103ms
+ GET /dashboard 200 in 63ms (compile: 41ms, render: 21ms)
+✓ Compiled in 29ms
+✓ Compiled in 43ms
+✓ Compiled in 55ms
+✓ Compiled in 48ms
+✓ Compiled in 44ms
+✓ Compiled in 38ms
+✓ Compiled in 49ms
+✓ Compiled in 48ms
+✓ Compiled in 247ms
+✓ Compiled in 21ms
+✓ Compiled in 73ms
+ GET /dashboard 200 in 269ms (compile: 46ms, render: 223ms)
+✓ Compiled in 66ms
+✓ Compiled in 192ms
+✓ Compiled in 181ms
+✓ Compiled in 72ms
+✓ Compiled in 147ms
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+✓ Compiled in 91ms
+ GET /dashboard 200 in 358ms (compile: 78ms, render: 281ms)
+ GET /dashboard 200 in 83ms (compile: 13ms, render: 70ms)
+✓ Compiled in 93ms
+ GET /dashboard 200 in 240ms (compile: 46ms, render: 195ms)
+ GET /dashboard 200 in 80ms (compile: 14ms, render: 66ms)
+✓ Compiled in 60ms
+✓ Compiled in 60ms
+✓ Compiled in 52ms
+ GET /dashboard 200 in 237ms (compile: 39ms, render: 198ms)
+ GET /dashboard 200 in 89ms (compile: 13ms, render: 76ms)
+ GET /dashboard 200 in 197ms (compile: 37ms, render: 160ms)
+ GET /dashboard 200 in 83ms (compile: 6ms, render: 76ms)
