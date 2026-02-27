@@ -1,10 +1,15 @@
 # Klair - AI-Powered Automated Virality for Streamers
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Now-brightgreen)](https://klair.live/)
+
 > An AI-native live stream monitor that detects, clips, and analyzes viral moments in real-time, turning hours of footage into shareable content instantly.
 
 ---
 
 ## 🎥 Demo
+
+Try out Klair here -> [https://klair.live/](https://klair.live/)
+
 <video src="https://github.com/user-attachments/assets/466ebf5f-6a76-41d9-a23e-dcbbf1e770fd" controls="controls" muted="muted" playsinline="playsinline" width="100%"></video>
 
 *watch how Klair captures live moments instantly*
@@ -91,3 +96,7 @@ Raw video isn't enough for a model to understand "humor," and third-party APIs (
 *   **🌐 Multi-Platform Publishing:** One-click integration to post high-scoring clips directly to TikTok/Instagram/YouTube Shorts.
 *   **⚡ Auto-Edit for Vertical (9:16):** Use AI facial detection to automatically crop landscape frames into vertical clips for TikTok/Reels, keeping the streamer and gameplay in focus.
 *   **🤖 Personalized AI Models:** Fine-tune the "Viral Score" based on the creator's *past* successful clips, rather than a generic baseline.
+
+## ⚖️ License & Community
+* **License:** Distributed under the CC-BY-NC 4.0 License. See `LICENSE` for more information.
+* **Community:** We are committed to a welcoming and inclusive environment. Please read our `CODE_OF_CONDUCT.md` before contributing.
